@@ -14,6 +14,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Bash for Mere Mortals](https://paulsullivan33-dev.github.io/bash-for-mere-mortals/)** — the shell behind most of the world's servers and automation glue, taught as the safe modern subset. ([repo](https://github.com/paulsullivan33-dev/bash-for-mere-mortals))
 - **[PowerShell for Mere Mortals](https://paulsullivan33-dev.github.io/powershell-for-mere-mortals/)** — Microsoft's automation shell, where commands pass *objects*, not text — Windows first, now cross-platform. ([repo](https://github.com/paulsullivan33-dev/powershell-for-mere-mortals))
 
+- **[Regular Expressions for Mere Mortals](https://paulsullivan33-dev.github.io/regex-for-mere-mortals/)** — the tiny pattern language inside every language: matching, extracting, and replacing text. ([repo](https://github.com/paulsullivan33-dev/regex-for-mere-mortals))
+
 ## Version control and operations
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
