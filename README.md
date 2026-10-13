@@ -18,6 +18,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
 
+- **[SQL for Mere Mortals](https://paulsullivan33-dev.github.io/sql-for-mere-mortals/)** — talk to databases: SELECT, JOINs, GROUP BY, and the data model behind nearly every app. ([repo](https://github.com/paulsullivan33-dev/sql-for-mere-mortals))
+
 ## Version control and operations
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
