@@ -32,6 +32,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[GitHub Actions for Mere Mortals](https://paulsullivan33-dev.github.io/github-actions-for-mere-mortals/)** — CI/CD explained plainly: workflows, jobs, triggers, secrets, and deployments. ([repo](https://github.com/paulsullivan33-dev/github-actions-for-mere-mortals))
 - **[GitOps for Mere Mortals](https://paulsullivan33-dev.github.io/gitops-for-mere-mortals/)** — keep systems the way you want them by storing the description in git. Not just a Kubernetes thing. ([repo](https://github.com/paulsullivan33-dev/gitops-for-mere-mortals))
 - **[Backstage for Mere Mortals](https://paulsullivan33-dev.github.io/backstage-for-mere-mortals/)** — the open-source developer portal that answers "who owns this service and where are its docs?" ([repo](https://github.com/paulsullivan33-dev/backstage-for-mere-mortals))
+- **[Cybersecurity for Mere Mortals](https://paulsullivan33-dev.github.io/cybersecurity-for-mere-mortals/)** — practical security for a home operator: threat models, passwords, 2FA, phishing, backups, SSH hardening, and what to do if you've been hacked. No fear-mongering. ([repo](https://github.com/paulsullivan33-dev/cybersecurity-for-mere-mortals))
 
 ## AI at home
 
