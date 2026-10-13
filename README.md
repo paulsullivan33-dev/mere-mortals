@@ -40,6 +40,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 ## Making things
 
 - **[3D Printing for Mere Mortals](https://paulsullivan33-dev.github.io/3d-printing-for-mere-mortals/)** — how 3D printing works, choosing a printer, filament, slicing, and multicolor printing. ([repo](https://github.com/paulsullivan33-dev/3d-printing-for-mere-mortals))
+- **[CAD for Mere Mortals](https://paulsullivan33-dev.github.io/cad-for-mere-mortals/)** — design your own parts instead of downloading them: sketches, constraints, tolerances, OpenSCAD, and a complete printed bracket. ([repo](https://github.com/paulsullivan33-dev/cad-for-mere-mortals))
 
 - **[Arduino for Mere Mortals](https://paulsullivan33-dev.github.io/arduino-for-mere-mortals/)** — microcontrollers explained plainly: sketches, pins, sensors, and real circuits. ([repo](https://github.com/paulsullivan33-dev/arduino-for-mere-mortals))
 
