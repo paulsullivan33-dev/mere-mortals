@@ -1,0 +1,11 @@
+site_name: For Mere Mortals
+site_description: Plain-language guides for programmers and makers — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/mere-mortals/
+
+# The index lives in README.md at the repo root (nice for GitHub browsing).
+# The deploy workflow copies it into docs/index.md before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
