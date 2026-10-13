@@ -16,6 +16,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 
 - **[Regular Expressions for Mere Mortals](https://paulsullivan33-dev.github.io/regex-for-mere-mortals/)** — the tiny pattern language inside every language: matching, extracting, and replacing text. ([repo](https://github.com/paulsullivan33-dev/regex-for-mere-mortals))
 
+- **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
+
 ## Version control and operations
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
