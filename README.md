@@ -18,6 +18,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
 
+- **[Docker for Mere Mortals](https://paulsullivan33-dev.github.io/docker-for-mere-mortals/)** — containers explained plainly: images, Dockerfiles, volumes, networking, and Compose. ([repo](https://github.com/paulsullivan33-dev/docker-for-mere-mortals))
+
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
 - **[GitOps for Mere Mortals](https://paulsullivan33-dev.github.io/gitops-for-mere-mortals/)** — keep systems the way you want them by storing the description in git. Not just a Kubernetes thing. ([repo](https://github.com/paulsullivan33-dev/gitops-for-mere-mortals))
 - **[Backstage for Mere Mortals](https://paulsullivan33-dev.github.io/backstage-for-mere-mortals/)** — the open-source developer portal that answers "who owns this service and where are its docs?" ([repo](https://github.com/paulsullivan33-dev/backstage-for-mere-mortals))
