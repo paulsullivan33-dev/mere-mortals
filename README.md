@@ -1,4 +1,4 @@
-# For Mere Mortals
+# Things that matter for mere mortals
 
 Plain-language guides to the things programmers and makers actually use — written for people who want to understand the *idea* first, then the how. No jargon without an explanation. No "it's simple, just..." No CS degree required.
 
