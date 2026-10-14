@@ -37,6 +37,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 ## AI at home
 
 - **[AI for Mere Mortals](https://paulsullivan33-dev.github.io/AI-for-mere-mortals/)** — understand LLMs and run them on your own computers: Ollama, Open WebUI, choosing models, and RAG. No math degree required. ([repo](https://github.com/paulsullivan33-dev/AI-for-mere-mortals))
+- **[Local AI at Home for Mere Mortals](https://paulsullivan33-dev.github.io/local-ai-for-mere-mortals/)** — the hands-on home-operator companion: hardware sizing math, quantization, the Ollama API, multi-machine setups, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/local-ai-for-mere-mortals))
 
 ## Making things
 
