@@ -28,6 +28,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 
 - **[Networking for Mere Mortals](https://paulsullivan33-dev.github.io/networking-for-mere-mortals/)** — IP addresses, DNS, ports, WiFi, and home networks explained plainly. ([repo](https://github.com/paulsullivan33-dev/networking-for-mere-mortals))
 
+- **[Tailscale for Mere Mortals](https://paulsullivan33-dev.github.io/tailscale-for-mere-mortals/)** — reach your home machines securely from anywhere: tailnets, exit nodes, sharing, access controls, and the WireGuard underneath. ([repo](https://github.com/paulsullivan33-dev/tailscale-for-mere-mortals))
+
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
 - **[GitHub Actions for Mere Mortals](https://paulsullivan33-dev.github.io/github-actions-for-mere-mortals/)** — CI/CD explained plainly: workflows, jobs, triggers, secrets, and deployments. ([repo](https://github.com/paulsullivan33-dev/github-actions-for-mere-mortals))
 - **[GitOps for Mere Mortals](https://paulsullivan33-dev.github.io/gitops-for-mere-mortals/)** — keep systems the way you want them by storing the description in git. Not just a Kubernetes thing. ([repo](https://github.com/paulsullivan33-dev/gitops-for-mere-mortals))
