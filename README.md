@@ -55,3 +55,5 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Soldering & Basic Electronics for Mere Mortals](https://paulsullivan33-dev.github.io/soldering-for-mere-mortals/)** — voltage, current, components, and joining metal with heat. ([repo](https://github.com/paulsullivan33-dev/soldering-for-mere-mortals))
 
 - **[Ham Radio for Mere Mortals](https://paulsullivan33-dev.github.io/ham-radio-for-mere-mortals/)** — get licensed, get on the air: the Technician exam, bands and modes, repeaters, your first radio, antennas, and making your first contact. ([repo](https://github.com/paulsullivan33-dev/ham-radio-for-mere-mortals))
+
+- **[tmux for Mere Mortals](https://paulsullivan33-dev.github.io/tmux-for-mere-mortals/)** — terminal sessions that survive disconnects: sessions, windows, panes, the prefix key, a sane config, and scripting whole layouts. ([repo](https://github.com/paulsullivan33-dev/tmux-for-mere-mortals))
