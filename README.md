@@ -13,6 +13,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Node.js for Mere Mortals](https://paulsullivan33-dev.github.io/nodejs-for-mere-mortals/)** — JavaScript outside the browser: servers, CLIs, and tools, teaching the modern, sane subset. ([repo](https://github.com/paulsullivan33-dev/nodejs-for-mere-mortals))
 - **[Bash for Mere Mortals](https://paulsullivan33-dev.github.io/bash-for-mere-mortals/)** — the shell behind most of the world's servers and automation glue, taught as the safe modern subset. ([repo](https://github.com/paulsullivan33-dev/bash-for-mere-mortals))
 - **[PowerShell for Mere Mortals](https://paulsullivan33-dev.github.io/powershell-for-mere-mortals/)** — Microsoft's automation shell, where commands pass *objects*, not text — Windows first, now cross-platform. ([repo](https://github.com/paulsullivan33-dev/powershell-for-mere-mortals))
+- **[Java for Mere Mortals](https://paulsullivan33-dev.github.io/java-for-mere-mortals/)** — the JVM, your first program, types, methods, classes and objects, interfaces, exceptions, and collections. ([repo](https://github.com/paulsullivan33-dev/java-for-mere-mortals))
 
 - **[Regular Expressions for Mere Mortals](https://paulsullivan33-dev.github.io/regex-for-mere-mortals/)** — the tiny pattern language inside every language: matching, extracting, and replacing text. ([repo](https://github.com/paulsullivan33-dev/regex-for-mere-mortals))
 
