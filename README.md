@@ -61,3 +61,5 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Raspberry Pi for Mere Mortals](https://paulsullivan33-dev.github.io/raspberry-pi-for-mere-mortals/)** — every current model compared, which Pi fits which job, headless setup, and first projects. ([repo](https://github.com/paulsullivan33-dev/raspberry-pi-for-mere-mortals))
 
 - **[LLM Evaluation for Mere Mortals](https://paulsullivan33-dev.github.io/llm-evaluation-for-mere-mortals/)** — which model is actually better? Benchmarks, pairwise duels, LLM-as-judge, metrics that matter, and running evals yourself. ([repo](https://github.com/paulsullivan33-dev/llm-evaluation-for-mere-mortals))
+
+- **[Agile for Mere Mortals](https://paulsullivan33-dev.github.io/agile-for-mere-mortals/)** — the manifesto, Scrum, Kanban, user stories, estimation, how agile goes wrong, and what to keep on a tiny team. ([repo](https://github.com/paulsullivan33-dev/agile-for-mere-mortals))
