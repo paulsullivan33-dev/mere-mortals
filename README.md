@@ -59,3 +59,5 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[tmux for Mere Mortals](https://paulsullivan33-dev.github.io/tmux-for-mere-mortals/)** — terminal sessions that survive disconnects: sessions, windows, panes, the prefix key, a sane config, and scripting whole layouts. ([repo](https://github.com/paulsullivan33-dev/tmux-for-mere-mortals))
 
 - **[Raspberry Pi for Mere Mortals](https://paulsullivan33-dev.github.io/raspberry-pi-for-mere-mortals/)** — every current model compared, which Pi fits which job, headless setup, and first projects. ([repo](https://github.com/paulsullivan33-dev/raspberry-pi-for-mere-mortals))
+
+- **[LLM Evaluation for Mere Mortals](https://paulsullivan33-dev.github.io/llm-evaluation-for-mere-mortals/)** — which model is actually better? Benchmarks, pairwise duels, LLM-as-judge, metrics that matter, and running evals yourself. ([repo](https://github.com/paulsullivan33-dev/llm-evaluation-for-mere-mortals))
