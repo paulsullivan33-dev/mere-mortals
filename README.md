@@ -43,6 +43,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[SSH for Mere Mortals](https://paulsullivan33-dev.github.io/ssh-for-mere-mortals/)** — the encrypted pipe behind everything: keys, the config file, jump hosts, tunnels, moving files, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/ssh-for-mere-mortals))
 - **[Proxmox for Mere Mortals](https://paulsullivan33-dev.github.io/proxmox-for-mere-mortals/)** — run many machines inside one machine: VMs, containers, storage, snapshots, backups, and the web UI. ([repo](https://github.com/paulsullivan33-dev/proxmox-for-mere-mortals))
 - **[Azure for Mere Mortals](https://paulsullivan33-dev.github.io/azure-for-mere-mortals/)** — Microsoft's cloud explained from zero: accounts and subscriptions, your first VM, storage, networking, managed databases, pricing and cost control, and Bicep. ([repo](https://github.com/paulsullivan33-dev/azure-for-mere-mortals))
+- **[Backups for Mere Mortals](https://paulsullivan33-dev.github.io/backups-for-mere-mortals/)** — backups that actually restore: the 3-2-1 rule, restic and BorgBackup step by step, retention and pruning, automation, and proving a restore works. ([repo](https://github.com/paulsullivan33-dev/backups-for-mere-mortals))
 
 ## AI at home
 
