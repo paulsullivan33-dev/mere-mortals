@@ -27,6 +27,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 
 - **[Docker for Mere Mortals](https://paulsullivan33-dev.github.io/docker-for-mere-mortals/)** — containers explained plainly: images, Dockerfiles, volumes, networking, and Compose. ([repo](https://github.com/paulsullivan33-dev/docker-for-mere-mortals))
 - **[Docker Compose for Mere Mortals](https://paulsullivan33-dev.github.io/docker-compose-for-mere-mortals/)** — run your whole stack from one YAML file: services, networks, volumes, environment, healthchecks, and the everyday commands. ([repo](https://github.com/paulsullivan33-dev/docker-compose-for-mere-mortals))
+- **[Make for Mere Mortals](https://paulsullivan33-dev.github.io/make-for-mere-mortals/)** — the 50-year-old build tool that still runs the world: targets, prerequisites, recipes, variables, pattern rules, and Make as a task runner. ([repo](https://github.com/paulsullivan33-dev/make-for-mere-mortals))
 
 - **[Networking for Mere Mortals](https://paulsullivan33-dev.github.io/networking-for-mere-mortals/)** — IP addresses, DNS, ports, WiFi, and home networks explained plainly. ([repo](https://github.com/paulsullivan33-dev/networking-for-mere-mortals))
 
