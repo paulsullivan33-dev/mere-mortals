@@ -42,6 +42,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Cybersecurity for Mere Mortals](https://paulsullivan33-dev.github.io/cybersecurity-for-mere-mortals/)** — practical security for a home operator: threat models, passwords, 2FA, phishing, backups, SSH hardening, and what to do if you've been hacked. No fear-mongering. ([repo](https://github.com/paulsullivan33-dev/cybersecurity-for-mere-mortals))
 - **[SSH for Mere Mortals](https://paulsullivan33-dev.github.io/ssh-for-mere-mortals/)** — the encrypted pipe behind everything: keys, the config file, jump hosts, tunnels, moving files, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/ssh-for-mere-mortals))
 - **[Proxmox for Mere Mortals](https://paulsullivan33-dev.github.io/proxmox-for-mere-mortals/)** — run many machines inside one machine: VMs, containers, storage, snapshots, backups, and the web UI. ([repo](https://github.com/paulsullivan33-dev/proxmox-for-mere-mortals))
+- **[Azure for Mere Mortals](https://paulsullivan33-dev.github.io/azure-for-mere-mortals/)** — Microsoft's cloud explained from zero: accounts and subscriptions, your first VM, storage, networking, managed databases, pricing and cost control, and Bicep. ([repo](https://github.com/paulsullivan33-dev/azure-for-mere-mortals))
 
 ## AI at home
 
