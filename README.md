@@ -45,6 +45,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Azure for Mere Mortals](https://paulsullivan33-dev.github.io/azure-for-mere-mortals/)** — Microsoft's cloud explained from zero: accounts and subscriptions, your first VM, storage, networking, managed databases, pricing and cost control, and Bicep. ([repo](https://github.com/paulsullivan33-dev/azure-for-mere-mortals))
 - **[Backups for Mere Mortals](https://paulsullivan33-dev.github.io/backups-for-mere-mortals/)** — backups that actually restore: the 3-2-1 rule, restic and BorgBackup step by step, retention and pruning, automation, and proving a restore works. ([repo](https://github.com/paulsullivan33-dev/backups-for-mere-mortals))
 - **[Ansible for Mere Mortals](https://paulsullivan33-dev.github.io/ansible-for-mere-mortals/)** — make every machine match a description you wrote down: inventories, playbooks, idempotency, templates and handlers, roles, Vault secrets, and running a small fleet. ([repo](https://github.com/paulsullivan33-dev/ansible-for-mere-mortals))
+- **[systemd for Mere Mortals](https://paulsullivan33-dev.github.io/systemd-for-mere-mortals/)** — the supervisor underneath Linux: unit files, systemctl, the journal, restart policies, timers, and hardening services. ([repo](https://github.com/paulsullivan33-dev/systemd-for-mere-mortals))
 
 ## AI at home
 
