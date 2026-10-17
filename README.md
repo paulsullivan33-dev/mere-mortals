@@ -49,6 +49,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Caddy for Mere Mortals](https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/)** — the web server that does HTTPS for you: reverse proxying your apps, static sites, the Caddyfile, and certificates on autopilot. ([repo](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals))
 - **[SQLite for Mere Mortals](https://paulsullivan33-dev.github.io/sqlite-for-mere-mortals/)** — the database that is a file: real SQL, keys and constraints, indexes measured on 100,000 rows, transactions, JSON documents, and honest limits. ([repo](https://github.com/paulsullivan33-dev/sqlite-for-mere-mortals))
 - **[Samba and NFS for Mere Mortals](https://paulsullivan33-dev.github.io/samba-and-nfs-for-mere-mortals/)** — sharing folders over the network: Samba shares for Windows, macOS, and Linux, NFS exports for the fleet, and the permission models that make both confusing. ([repo](https://github.com/paulsullivan33-dev/samba-and-nfs-for-mere-mortals))
+- **[MQTT for Mere Mortals](https://paulsullivan33-dev.github.io/mqtt-for-mere-mortals/)** — how small devices talk to each other: brokers, topics, publish and subscribe, QoS, retained messages and last wills, Mosquitto step by step, and a little Python. ([repo](https://github.com/paulsullivan33-dev/mqtt-for-mere-mortals))
 
 ## AI at home
 
