@@ -47,6 +47,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Ansible for Mere Mortals](https://paulsullivan33-dev.github.io/ansible-for-mere-mortals/)** — make every machine match a description you wrote down: inventories, playbooks, idempotency, templates and handlers, roles, Vault secrets, and running a small fleet. ([repo](https://github.com/paulsullivan33-dev/ansible-for-mere-mortals))
 - **[systemd for Mere Mortals](https://paulsullivan33-dev.github.io/systemd-for-mere-mortals/)** — the supervisor underneath Linux: unit files, systemctl, the journal, restart policies, timers, and hardening services. ([repo](https://github.com/paulsullivan33-dev/systemd-for-mere-mortals))
 - **[Caddy for Mere Mortals](https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/)** — the web server that does HTTPS for you: reverse proxying your apps, static sites, the Caddyfile, and certificates on autopilot. ([repo](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals))
+- **[SQLite for Mere Mortals](https://paulsullivan33-dev.github.io/sqlite-for-mere-mortals/)** — the database that is a file: real SQL, keys and constraints, indexes measured on 100,000 rows, transactions, JSON documents, and honest limits. ([repo](https://github.com/paulsullivan33-dev/sqlite-for-mere-mortals))
 
 ## AI at home
 
