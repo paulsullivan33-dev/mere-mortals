@@ -53,6 +53,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[DNS for Mere Mortals](https://paulsullivan33-dev.github.io/dns-for-mere-mortals/)** — how a lookup really travels: the hierarchy and delegation, the records that matter, TTL and caching, reading dig, running a tiny zone of your own, and fixing the failures that take everything else down. ([repo](https://github.com/paulsullivan33-dev/dns-for-mere-mortals))
 - **[Kubernetes for Mere Mortals](https://paulsullivan33-dev.github.io/kubernetes-for-mere-mortals/)** — what a cluster is, pods and deployments explained, services and config without the magic, a worked example, and honest advice about when you do not need any of it. ([repo](https://github.com/paulsullivan33-dev/kubernetes-for-mere-mortals))
 - **[Terraform for Mere Mortals](https://paulsullivan33-dev.github.io/terraform-for-mere-mortals/)** — infrastructure as code from the first plan to a safe destroy: providers, state, variables, modules, and the whole lifecycle run for real with providers that live entirely on your own machine. ([repo](https://github.com/paulsullivan33-dev/terraform-for-mere-mortals))
+- **[rsync for Mere Mortals](https://paulsullivan33-dev.github.io/rsync-for-mere-mortals/)** — the synchronizer behind a million backup scripts: first syncs, the trailing slash, dry runs, safe deleting, excludes, snapshots that cost almost nothing, and ssh and daemon transfers, all run for real. ([repo](https://github.com/paulsullivan33-dev/rsync-for-mere-mortals))
 
 ## AI at home
 
