@@ -9,3 +9,4 @@ theme:
 
 nav:
   - Home: index.md
+  - Privacy: privacy.md
