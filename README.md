@@ -26,6 +26,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Text Processing for Mere Mortals](https://paulsullivan33-dev.github.io/text-processing-for-mere-mortals/)** — grep, sed, and awk, the trio for wrestling lines: finding the lines that match, editing them as they stream past, and splitting them into fields to compute with — what failed, how often, how much, and who — practised against a specimen lab of invented logs, accounts, and orders. ([repo](https://github.com/paulsullivan33-dev/text-processing-for-mere-mortals))
 - **[Make for Mere Mortals](https://paulsullivan33-dev.github.io/make-for-mere-mortals/)** — the 50-year-old build tool that still runs the world: targets, prerequisites, recipes, variables, pattern rules, and Make as a task runner. ([repo](https://github.com/paulsullivan33-dev/make-for-mere-mortals))
 - [DuckDB](https://paulsullivan33-dev.github.io/duckdb-for-mere-mortals/) — SQL that queries CSV, JSON, and Parquet files in place, with no server and no import step.
+- [ShellCheck](https://paulsullivan33-dev.github.io/shellcheck-for-mere-mortals/) — a proofreader for shell scripts that catches the quoting and splitting bugs before the script does damage.
 
 ## Files, backups, and sync
 
