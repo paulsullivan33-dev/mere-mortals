@@ -82,6 +82,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Proxmox for Mere Mortals](https://paulsullivan33-dev.github.io/proxmox-for-mere-mortals/)** — run many machines inside one machine: VMs, containers, storage, snapshots, backups, and the web UI. ([repo](https://github.com/paulsullivan33-dev/proxmox-for-mere-mortals))
 - **[Azure for Mere Mortals](https://paulsullivan33-dev.github.io/azure-for-mere-mortals/)** — Microsoft's cloud explained from zero: accounts and subscriptions, your first VM, storage, networking, managed databases, pricing and cost control, and Bicep. ([repo](https://github.com/paulsullivan33-dev/azure-for-mere-mortals))
 - **[Virtual Machines for Mere Mortals](https://paulsullivan33-dev.github.io/virtual-machines-for-mere-mortals/)** — a whole computer inside your computer, with hypervisors explained, sizing honestly, virtual disks, snapshots that are not backups, and networking modes. ([repo](https://github.com/paulsullivan33-dev/virtual-machines-for-mere-mortals))
+- **[Node-RED for Mere Mortals](https://paulsullivan33-dev.github.io/nodered-for-mere-mortals/)** — Wiring sensors, messages, and services into automations by connecting boxes instead of writing plumbing code. ([repo](https://github.com/paulsullivan33-dev/nodered-for-mere-mortals))
 
 ## Networking
 
