@@ -64,6 +64,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Navidrome for Mere Mortals](https://paulsullivan33-dev.github.io/navidrome-for-mere-mortals/)** — Your own music server, streaming your library to browser and phone apps with playlists and separate accounts for each listener. ([repo](https://github.com/paulsullivan33-dev/navidrome-for-mere-mortals))
 - **[Stirling PDF for Mere Mortals](https://paulsullivan33-dev.github.io/stirling-pdf-for-mere-mortals/)** — A self-hosted PDF workshop in your browser — merge, split, rotate, convert, and OCR without sending documents to a stranger's website. ([repo](https://github.com/paulsullivan33-dev/stirling-pdf-for-mere-mortals))
 - **[BookStack for Mere Mortals](https://paulsullivan33-dev.github.io/bookstack-for-mere-mortals/)** — A tidy wiki for your household or club — shelves, books, chapters, and pages, with accounts and permissions that keep private notes private. ([repo](https://github.com/paulsullivan33-dev/bookstack-for-mere-mortals))
+- **[Audiobookshelf for Mere Mortals](https://paulsullivan33-dev.github.io/audiobookshelf-for-mere-mortals/)** — A home server for audiobooks and podcasts that remembers your place on every device. ([repo](https://github.com/paulsullivan33-dev/audiobookshelf-for-mere-mortals))
 
 ## Version control, delivery, and teamwork
 
