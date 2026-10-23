@@ -114,6 +114,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[nginx for Mere Mortals](https://paulsullivan33-dev.github.io/nginx-for-mere-mortals/)** — the web server and reverse proxy already in front of everything: the config grammar (directives, contexts, and how settings inherit), serving static files with the root-versus-alias trap, location matching proven with fixtures instead of asserted, reverse proxying with the headers that keep backend logs honest, a self-signed TLS site, rate limiting and its phase gotcha, and upstreams that keep answering when a backend dies, practised on a loopback lab. ([repo](https://github.com/paulsullivan33-dev/nginx-for-mere-mortals))
 - **[Caddy for Mere Mortals](https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/)** — the web server that does HTTPS for you: reverse proxying your apps, static sites, the Caddyfile, and certificates on autopilot. ([repo](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals))
 - **[SearXNG for Mere Mortals](https://paulsullivan33-dev.github.io/searxng-for-mere-mortals/)** — Your own private search page that asks the big engines for you and keeps no profile of what you looked for. ([repo](https://github.com/paulsullivan33-dev/searxng-for-mere-mortals))
+- **[FreshRSS for Mere Mortals](https://paulsullivan33-dev.github.io/freshrss-for-mere-mortals/)** — A self-hosted feed reader that gathers the sites you follow into one reading list you control. ([repo](https://github.com/paulsullivan33-dev/freshrss-for-mere-mortals))
 
 ## Security
 
