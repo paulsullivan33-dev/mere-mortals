@@ -63,6 +63,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Jellyfin for Mere Mortals](https://paulsullivan33-dev.github.io/jellyfin-for-mere-mortals/)** — your own media server: your films, music, and shows streamed from your hardware, with libraries and naming that actually match, transcoding in plain terms, and users fenced to what they should see, all run live against the real server. ([repo](https://github.com/paulsullivan33-dev/jellyfin-for-mere-mortals))
 - **[Navidrome for Mere Mortals](https://paulsullivan33-dev.github.io/navidrome-for-mere-mortals/)** — Your own music server, streaming your library to browser and phone apps with playlists and separate accounts for each listener. ([repo](https://github.com/paulsullivan33-dev/navidrome-for-mere-mortals))
 - **[Stirling PDF for Mere Mortals](https://paulsullivan33-dev.github.io/stirling-pdf-for-mere-mortals/)** — A self-hosted PDF workshop in your browser — merge, split, rotate, convert, and OCR without sending documents to a stranger's website. ([repo](https://github.com/paulsullivan33-dev/stirling-pdf-for-mere-mortals))
+- **[BookStack for Mere Mortals](https://paulsullivan33-dev.github.io/bookstack-for-mere-mortals/)** — A tidy wiki for your household or club — shelves, books, chapters, and pages, with accounts and permissions that keep private notes private. ([repo](https://github.com/paulsullivan33-dev/bookstack-for-mere-mortals))
 
 ## Version control, delivery, and teamwork
 
