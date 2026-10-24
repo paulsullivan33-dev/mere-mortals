@@ -118,6 +118,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Caddy for Mere Mortals](https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/)** — the web server that does HTTPS for you: reverse proxying your apps, static sites, the Caddyfile, and certificates on autopilot. ([repo](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals))
 - **[SearXNG for Mere Mortals](https://paulsullivan33-dev.github.io/searxng-for-mere-mortals/)** — Your own private search page that asks the big engines for you and keeps no profile of what you looked for. ([repo](https://github.com/paulsullivan33-dev/searxng-for-mere-mortals))
 - **[FreshRSS for Mere Mortals](https://paulsullivan33-dev.github.io/freshrss-for-mere-mortals/)** — A self-hosted feed reader that gathers the sites you follow into one reading list you control. ([repo](https://github.com/paulsullivan33-dev/freshrss-for-mere-mortals))
+- **[Traefik for Mere Mortals](https://paulsullivan33-dev.github.io/traefik-for-mere-mortals/)** — the reverse proxy that configures itself: host and path routing proven against two live backends, middleware, TLS from a local CA, health-checked load balancing that retires a dead server and takes it back, and config reloads that never restart the process — with Docker labels and Let's Encrypt honestly labelled as the parts a laptop lab cannot prove. ([repo](https://github.com/paulsullivan33-dev/traefik-for-mere-mortals))
 
 ## Security
 
