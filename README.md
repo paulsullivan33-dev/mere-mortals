@@ -15,6 +15,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[PowerShell for Mere Mortals](https://paulsullivan33-dev.github.io/powershell-for-mere-mortals/)** — Microsoft's automation shell, where commands pass *objects*, not text — Windows first, now cross-platform. ([repo](https://github.com/paulsullivan33-dev/powershell-for-mere-mortals))
 - **[Java for Mere Mortals](https://paulsullivan33-dev.github.io/java-for-mere-mortals/)** — the JVM, your first program, types, methods, classes and objects, interfaces, exceptions, and collections. ([repo](https://github.com/paulsullivan33-dev/java-for-mere-mortals))
 - **[Regular Expressions for Mere Mortals](https://paulsullivan33-dev.github.io/regex-for-mere-mortals/)** — the tiny pattern language inside every language: matching, extracting, and replacing text. ([repo](https://github.com/paulsullivan33-dev/regex-for-mere-mortals))
+- **[Lua for Mere Mortals](https://paulsullivan33-dev.github.io/lua-for-mere-mortals/)** — the little language that lives inside other programs: one data structure, first-class functions, metatables and coroutines, all run for real. ([repo](https://github.com/paulsullivan33-dev/lua-for-mere-mortals))
 
 ## The command line and the system
 
