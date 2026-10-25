@@ -1,6 +1,7 @@
 site_name: Things that matter for mere mortals
 site_description: Plain-language guides for programmers and makers — no CS degree required.
 site_url: https://paulsullivan33-dev.github.io/mere-mortals/
+copyright: 'Part of <a href="https://paulsullivan33-dev.github.io/mere-mortals/">For Mere Mortals</a> · Text <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, code MIT'
 
 # The index lives in README.md at the repo root (nice for GitHub browsing).
 # The deploy workflow copies it into docs/index.md before building.
