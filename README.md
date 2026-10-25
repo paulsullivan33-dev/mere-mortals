@@ -78,6 +78,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Audacity for Mere Mortals](https://paulsullivan33-dev.github.io/audacity-for-mere-mortals/)** — the free sound editor: seeing and selecting sound, tracks and clips, cleaning up noise with measured before-and-after numbers, effects, exporting finished files, and projects that are really databases, explained. ([repo](https://github.com/paulsullivan33-dev/audacity-for-mere-mortals))
 - **[yt-dlp for Mere Mortals](https://paulsullivan33-dev.github.io/yt-dlp-for-mere-mortals/)** — downloading video and audio from the web with one command: choosing formats, naming files so they stay findable, extracting the audio, saving subtitles, working through playlists, and honest notes on the sites that say no. ([repo](https://github.com/paulsullivan33-dev/yt-dlp-for-mere-mortals))
 - **[Jupyter for Mere Mortals](https://paulsullivan33-dev.github.io/jupyter-for-mere-mortals/)** — notebooks that mix code, output, and explanation: kernels, hidden state, converting and sharing, all executed and cross-checked for real. ([repo](https://github.com/paulsullivan33-dev/jupyter-for-mere-mortals))
+- **[LibreOffice for Mere Mortals](https://paulsullivan33-dev.github.io/libreoffice-for-mere-mortals/)** — the free office suite and its command-line conversion engine: formats opened and read back, batch conversion, and profiles, all run for real. ([repo](https://github.com/paulsullivan33-dev/libreoffice-for-mere-mortals))
 
 ## Version control, delivery, and teamwork
 
