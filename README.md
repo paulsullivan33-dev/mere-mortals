@@ -27,6 +27,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Make for Mere Mortals](https://paulsullivan33-dev.github.io/make-for-mere-mortals/)** — the 50-year-old build tool that still runs the world: targets, prerequisites, recipes, variables, pattern rules, and Make as a task runner. ([repo](https://github.com/paulsullivan33-dev/make-for-mere-mortals))
 - **[DuckDB for Mere Mortals](https://paulsullivan33-dev.github.io/duckdb-for-mere-mortals/)** — SQL that queries CSV, JSON, and Parquet files in place, with no server and no import step. ([repo](https://github.com/paulsullivan33-dev/duckdb-for-mere-mortals))
 - **[ShellCheck for Mere Mortals](https://paulsullivan33-dev.github.io/shellcheck-for-mere-mortals/)** — a proofreader for shell scripts that catches the quoting and splitting bugs before the script does damage. ([repo](https://github.com/paulsullivan33-dev/shellcheck-for-mere-mortals))
+- **[Ventoy for Mere Mortals](https://paulsullivan33-dev.github.io/ventoy-for-mere-mortals/)** — one USB stick that boots many disk images: install Ventoy on it once, then adding something bootable is copying a file; the two partitions, the configuration file, persistence for live systems, and the honest limits, Secure Boot's toll included. ([repo](https://github.com/paulsullivan33-dev/ventoy-for-mere-mortals))
 
 ## Files, backups, and sync
 
