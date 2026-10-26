@@ -179,6 +179,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[PlatformIO for Mere Mortals](https://paulsullivan33-dev.github.io/platformio-for-mere-mortals/)** — embedded projects built from the terminal: one project file, real libraries, desktop tests, and a genuine Uno firmware build. ([repo](https://github.com/paulsullivan33-dev/platformio-for-mere-mortals))
 - **[Fldigi for Mere Mortals](https://paulsullivan33-dev.github.io/fldigi-for-mere-mortals/)** — sound-card digital modes for amateur radio: the waterfall, PSK31 and its neighbours, macros and logging, proven with a two-copy off-air loopback in the lab. ([repo](https://github.com/paulsullivan33-dev/fldigi-for-mere-mortals))
 - **[Klipper for Mere Mortals](https://paulsullivan33-dev.github.io/klipper-for-mere-mortals/)** — the 3D printer firmware that moves the brain to a real computer: printer.cfg section by section, input shaping and pressure advance in plain terms, and a simulated printer run for real in the lab. ([repo](https://github.com/paulsullivan33-dev/klipper-for-mere-mortals))
+- **[Dire Wolf for Mere Mortals](https://paulsullivan33-dev.github.io/dire-wolf-for-mere-mortals/)** — the software TNC for packet radio and APRS: AX.25 without the fog, audio levels honestly, KISS and AGW, digipeaters and igates, with packets generated and decoded off-air in the lab. ([repo](https://github.com/paulsullivan33-dev/dire-wolf-for-mere-mortals))
 
 ## License
 
