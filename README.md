@@ -159,6 +159,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[MCP for Mere Mortals](https://paulsullivan33-dev.github.io/mcp-for-mere-mortals/)** — the Model Context Protocol in plain terms: hosts, clients and servers, the tools, resources and prompts a server offers, and a small server built and driven end to end in the lab. ([repo](https://github.com/paulsullivan33-dev/mcp-for-mere-mortals))
 - **[Hugging Face for Mere Mortals](https://paulsullivan33-dev.github.io/hugging-face-for-mere-mortals/)** — the Hub without the mystery: reading a model card like a contract, file formats and quantisation names decoded, the hf CLI and cache, and datasets and pipelines run for real. ([repo](https://github.com/paulsullivan33-dev/hugging-face-for-mere-mortals))
 - **[LoRA Fine-Tuning for Mere Mortals](https://paulsullivan33-dev.github.io/lora-fine-tuning-for-mere-mortals/)** — teaching a model your style with a small adapter instead of retraining it: datasets, ranks and loss, and a real training run whose results are reported honestly, style learned and facts not. ([repo](https://github.com/paulsullivan33-dev/lora-fine-tuning-for-mere-mortals))
+- **[ComfyUI for Mere Mortals](https://paulsullivan33-dev.github.io/comfyui-for-mere-mortals/)** — image generation as a node graph: nodes and wires instead of panels, workflows you can save and share, and a real generation run end to end in the lab. ([repo](https://github.com/paulsullivan33-dev/comfyui-for-mere-mortals))
 
 ## Making things
 
