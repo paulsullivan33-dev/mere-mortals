@@ -173,6 +173,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[WSJT-X for Mere Mortals](https://paulsullivan33-dev.github.io/wsjtx-for-mere-mortals/)** — The weak-signal digital modes explained and decoded — FT8, FT4, WSPR, and friends — with no transmission required to learn how they work. ([repo](https://github.com/paulsullivan33-dev/wsjtx-for-mere-mortals))
 - **[KiCad for Mere Mortals](https://paulsullivan33-dev.github.io/kicad-for-mere-mortals/)** — design a circuit board from first schematic to the files a fab house takes: a real NE555 blinker board drawn, checked clean by ERC, laid out to zero DRC violations, and exported as Gerbers and drill files by KiCad 8's own tools — plus the warning that Ubuntu's stock KiCad 7 cannot run those checks from the command line at all. ([repo](https://github.com/paulsullivan33-dev/kicad-for-mere-mortals))
 - **[PlatformIO for Mere Mortals](https://paulsullivan33-dev.github.io/platformio-for-mere-mortals/)** — embedded projects built from the terminal: one project file, real libraries, desktop tests, and a genuine Uno firmware build. ([repo](https://github.com/paulsullivan33-dev/platformio-for-mere-mortals))
+- **[Fldigi for Mere Mortals](https://paulsullivan33-dev.github.io/fldigi-for-mere-mortals/)** — sound-card digital modes for amateur radio: the waterfall, PSK31 and its neighbours, macros and logging, proven with a two-copy off-air loopback in the lab. ([repo](https://github.com/paulsullivan33-dev/fldigi-for-mere-mortals))
 
 ## License
 
