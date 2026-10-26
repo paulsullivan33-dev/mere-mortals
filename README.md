@@ -182,6 +182,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Dire Wolf for Mere Mortals](https://paulsullivan33-dev.github.io/dire-wolf-for-mere-mortals/)** — the software TNC for packet radio and APRS: AX.25 without the fog, audio levels honestly, KISS and AGW, digipeaters and igates, with packets generated and decoded off-air in the lab. ([repo](https://github.com/paulsullivan33-dev/dire-wolf-for-mere-mortals))
 - **[GNU Radio for Mere Mortals](https://paulsullivan33-dev.github.io/gnu-radio-for-mere-mortals/)** — signal processing built from blocks: samples and IQ with arithmetic you can check, filters and decimation measured rather than asserted, and an AM signal recovered end to end in the lab. ([repo](https://github.com/paulsullivan33-dev/gnu-radio-for-mere-mortals))
 - **[ESP32 for Mere Mortals](https://paulsullivan33-dev.github.io/esp32-for-mere-mortals/)** — the microcontroller with Wi-Fi and Bluetooth built in: the family compared honestly, pins and power budgets without folklore, and three sketches compiled for real in the lab. ([repo](https://github.com/paulsullivan33-dev/esp32-for-mere-mortals))
+- **[CHIRP for Mere Mortals](https://paulsullivan33-dev.github.io/chirp-for-mere-mortals/)** — program amateur radios from a computer instead of their front panels: download a radio's memory to a file, build a channel plan you can read and check by hand, and write it back, with the licensing rules and the limits stated plainly. ([repo](https://github.com/paulsullivan33-dev/chirp-for-mere-mortals))
 
 ## License
 
