@@ -84,6 +84,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Jupyter for Mere Mortals](https://paulsullivan33-dev.github.io/jupyter-for-mere-mortals/)** — notebooks that mix code, output, and explanation: kernels, hidden state, converting and sharing, all executed and cross-checked for real. ([repo](https://github.com/paulsullivan33-dev/jupyter-for-mere-mortals))
 - **[LibreOffice for Mere Mortals](https://paulsullivan33-dev.github.io/libreoffice-for-mere-mortals/)** — the free office suite and its command-line conversion engine: formats opened and read back, batch conversion, and profiles, all run for real. ([repo](https://github.com/paulsullivan33-dev/libreoffice-for-mere-mortals))
 - **[Obsidian for Mere Mortals](https://paulsullivan33-dev.github.io/obsidian-for-mere-mortals/)** — notes as plain Markdown files you own: vaults, wikilinks and backlinks, properties and templates, sync choices compared plainly, and a lab vault checked against the real app. ([repo](https://github.com/paulsullivan33-dev/obsidian-for-mere-mortals))
+- **[Tesseract OCR for Mere Mortals](https://paulsullivan33-dev.github.io/tesseract-ocr-for-mere-mortals/)** — turning pictures of pages into text you can search: clean images, page segmentation, languages, searchable PDFs, and accuracy measured character by character on damaged pages, including the repairs that help and the one that made things worse. ([repo](https://github.com/paulsullivan33-dev/tesseract-ocr-for-mere-mortals))
 
 ## Version control, delivery, and teamwork
 
