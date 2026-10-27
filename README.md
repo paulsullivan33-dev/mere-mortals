@@ -134,6 +134,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[OpenWebRX for Mere Mortals](https://paulsullivan33-dev.github.io/openwebrx-for-mere-mortals/)** — A software-defined radio receiver on your network that anyone with a browser can tune, waterfall and all. ([repo](https://github.com/paulsullivan33-dev/openwebrx-for-mere-mortals))
 - **[Wireshark for Mere Mortals](https://paulsullivan33-dev.github.io/wireshark-for-mere-mortals/)** — the packet analyser that was actually watching: capturing traffic, reading one packet layer by layer, display and capture filters, following a whole conversation, and the encryption wall stated plainly. ([repo](https://github.com/paulsullivan33-dev/wireshark-for-mere-mortals))
 - **[mitmproxy for Mere Mortals](https://paulsullivan33-dev.github.io/mitmproxy-for-mere-mortals/)** — a proxy that shows you your own web traffic: capturing flows, filtering them, and decrypting HTTPS with a certificate authority you control, all run against a local test server. ([repo](https://github.com/paulsullivan33-dev/mitmproxy-for-mere-mortals))
+- **[RustDesk for Mere Mortals](https://paulsullivan33-dev.github.io/rustdesk-for-mere-mortals/)** — remote desktop on your own terms: run the relay and ID servers yourself, point clients at them by hand, and understand the key that makes the connection yours, with the sandbox's own network limits diagnosed and taught honestly. ([repo](https://github.com/paulsullivan33-dev/rustdesk-for-mere-mortals))
 
 ## The web
 
