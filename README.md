@@ -41,6 +41,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Hyperfine for Mere Mortals](https://paulsullivan33-dev.github.io/hyperfine-for-mere-mortals/)** — a stopwatch for the command line that runs a command many times and reports honest statistics: comparing two ways of doing the same job, sweeping a parameter, exporting the numbers, and learning when a benchmark is lying to you. ([repo](https://github.com/paulsullivan33-dev/hyperfine-for-mere-mortals))
 - **[Starship for Mere Mortals](https://paulsullivan33-dev.github.io/starship-for-mere-mortals/)** — a prompt that tells you where you are and what state things are in: reading its segments, teaching it your colours, and turning the noisy ones off. ([repo](https://github.com/paulsullivan33-dev/starship-for-mere-mortals))
 - **[Entr for Mere Mortals](https://paulsullivan33-dev.github.io/entr-for-mere-mortals/)** — the watcher that runs your command when a file changes: restarting a program on every save, catching new files as they land, and keeping the screen tidy, with the traps measured rather than guessed. ([repo](https://github.com/paulsullivan33-dev/entr-for-mere-mortals))
+- **[Bat for Mere Mortals](https://paulsullivan33-dev.github.io/bat-for-mere-mortals/)** — a cat with colour and a memory of your files changing: syntax highlighting, line numbers, and a frame, just the lines you ask for, and what git says you changed. ([repo](https://github.com/paulsullivan33-dev/bat-for-mere-mortals))
 
 ## Files, backups, and sync
 
