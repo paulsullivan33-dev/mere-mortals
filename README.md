@@ -134,6 +134,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[K9s for Mere Mortals](https://paulsullivan33-dev.github.io/k9s-for-mere-mortals/)** — a keyboard-driven window onto a Kubernetes cluster: watching pods, deployments, and services as they change, reading logs, describing resources, and acting on them from the terminal. ([repo](https://github.com/paulsullivan33-dev/k9s-for-mere-mortals))
 - **[Distrobox for Mere Mortals](https://paulsullivan33-dev.github.io/distrobox-for-mere-mortals/)** — use any Linux distribution inside your terminal: boxes that share your home folder, one distribution's software running on another, exported apps on your desktop, and an honest account of where a box's walls actually are. ([repo](https://github.com/paulsullivan33-dev/distrobox-for-mere-mortals))
 - **[Incus for Mere Mortals](https://paulsullivan33-dev.github.io/incus-for-mere-mortals/)** — containers and virtual machines under one command: meeting the daemon behind it, launching a first container and a first VM, and shaping both with profiles, storage pools, and networks. ([repo](https://github.com/paulsullivan33-dev/incus-for-mere-mortals))
+- **[Kustomize for Mere Mortals](https://paulsullivan33-dev.github.io/kustomize-for-mere-mortals/)** — one set of Kubernetes YAML, many environments: writing a base that stays neutral, layering overlays that rename, relabel, re-image, and patch it, and proving every change with a diff. ([repo](https://github.com/paulsullivan33-dev/kustomize-for-mere-mortals))
 
 ## Networking
 
