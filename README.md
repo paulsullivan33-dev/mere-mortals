@@ -44,6 +44,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Bat for Mere Mortals](https://paulsullivan33-dev.github.io/bat-for-mere-mortals/)** — a cat with colour and a memory of your files changing: syntax highlighting, line numbers, and a frame, just the lines you ask for, and what git says you changed. ([repo](https://github.com/paulsullivan33-dev/bat-for-mere-mortals))
 - **[Zoxide for Mere Mortals](https://paulsullivan33-dev.github.io/zoxide-for-mere-mortals/)** — a smarter cd command that remembers where you go: jumping to your folders from a few letters, how frecency ranks them, and the small database that holds the memory. ([repo](https://github.com/paulsullivan33-dev/zoxide-for-mere-mortals))
 - **[Eza for Mere Mortals](https://paulsullivan33-dev.github.io/eza-for-mere-mortals/)** — a modern replacement for ls: colour, icons, git status, and tree views, the long listing read column by column, and an honest account of where a prettier listing stops being the truth. ([repo](https://github.com/paulsullivan33-dev/eza-for-mere-mortals))
+- **[Atuin for Mere Mortals](https://paulsullivan33-dev.github.io/atuin-for-mere-mortals/)** — shell history that remembers what your shell forgets: a searchable database of the commands you run, each kept with its directory, its exit code, and its duration, with sync told honestly. ([repo](https://github.com/paulsullivan33-dev/atuin-for-mere-mortals))
 
 ## Files, backups, and sync
 
