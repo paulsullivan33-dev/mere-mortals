@@ -16,6 +16,8 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Java for Mere Mortals](https://paulsullivan33-dev.github.io/java-for-mere-mortals/)** — the JVM, your first program, types, methods, classes and objects, interfaces, exceptions, and collections. ([repo](https://github.com/paulsullivan33-dev/java-for-mere-mortals))
 - **[Regular Expressions for Mere Mortals](https://paulsullivan33-dev.github.io/regex-for-mere-mortals/)** — the tiny pattern language inside every language: matching, extracting, and replacing text. ([repo](https://github.com/paulsullivan33-dev/regex-for-mere-mortals))
 - **[Lua for Mere Mortals](https://paulsullivan33-dev.github.io/lua-for-mere-mortals/)** — the little language that lives inside other programs: one data structure, first-class functions, metatables and coroutines, all run for real. ([repo](https://github.com/paulsullivan33-dev/lua-for-mere-mortals))
+- **[Mise for Mere Mortals](https://paulsullivan33-dev.github.io/mise-for-mere-mortals/)** — one tool to pin every language and tool version a project needs: pin Node per project in a file you can commit, switch versions as you move between folders, and run tasks and environments from the same file. ([repo](https://github.com/paulsullivan33-dev/mise-for-mere-mortals))
+- **[uv for Mere Mortals](https://paulsullivan33-dev.github.io/uv-for-mere-mortals/)** — one fast tool for Python projects, packages, and interpreters: start a project, add dependencies, run scripts and tools, manage Python versions, and reproduce an environment exactly from its lockfile. ([repo](https://github.com/paulsullivan33-dev/uv-for-mere-mortals))
 
 ## The command line and the system
 
