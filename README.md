@@ -45,6 +45,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Zoxide for Mere Mortals](https://paulsullivan33-dev.github.io/zoxide-for-mere-mortals/)** — a smarter cd command that remembers where you go: jumping to your folders from a few letters, how frecency ranks them, and the small database that holds the memory. ([repo](https://github.com/paulsullivan33-dev/zoxide-for-mere-mortals))
 - **[Eza for Mere Mortals](https://paulsullivan33-dev.github.io/eza-for-mere-mortals/)** — a modern replacement for ls: colour, icons, git status, and tree views, the long listing read column by column, and an honest account of where a prettier listing stops being the truth. ([repo](https://github.com/paulsullivan33-dev/eza-for-mere-mortals))
 - **[Atuin for Mere Mortals](https://paulsullivan33-dev.github.io/atuin-for-mere-mortals/)** — shell history that remembers what your shell forgets: a searchable database of the commands you run, each kept with its directory, its exit code, and its duration, with sync told honestly. ([repo](https://github.com/paulsullivan33-dev/atuin-for-mere-mortals))
+- **[GDB for Mere Mortals](https://paulsullivan33-dev.github.io/gdb-for-mere-mortals/)** — the GNU debugger, for programs that crash or give the wrong answer: stopping a running program, reading its variables and its call stack, catching the moment a value changes, and examining what a crash left behind. ([repo](https://github.com/paulsullivan33-dev/gdb-for-mere-mortals))
 
 ## Files, backups, and sync
 
