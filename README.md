@@ -43,6 +43,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Entr for Mere Mortals](https://paulsullivan33-dev.github.io/entr-for-mere-mortals/)** — the watcher that runs your command when a file changes: restarting a program on every save, catching new files as they land, and keeping the screen tidy, with the traps measured rather than guessed. ([repo](https://github.com/paulsullivan33-dev/entr-for-mere-mortals))
 - **[Bat for Mere Mortals](https://paulsullivan33-dev.github.io/bat-for-mere-mortals/)** — a cat with colour and a memory of your files changing: syntax highlighting, line numbers, and a frame, just the lines you ask for, and what git says you changed. ([repo](https://github.com/paulsullivan33-dev/bat-for-mere-mortals))
 - **[Zoxide for Mere Mortals](https://paulsullivan33-dev.github.io/zoxide-for-mere-mortals/)** — a smarter cd command that remembers where you go: jumping to your folders from a few letters, how frecency ranks them, and the small database that holds the memory. ([repo](https://github.com/paulsullivan33-dev/zoxide-for-mere-mortals))
+- **[Eza for Mere Mortals](https://paulsullivan33-dev.github.io/eza-for-mere-mortals/)** — a modern replacement for ls: colour, icons, git status, and tree views, the long listing read column by column, and an honest account of where a prettier listing stops being the truth. ([repo](https://github.com/paulsullivan33-dev/eza-for-mere-mortals))
 
 ## Files, backups, and sync
 
