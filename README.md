@@ -123,6 +123,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Portainer for Mere Mortals](https://paulsullivan33-dev.github.io/portainer-for-mere-mortals/)** — a web console for your containers: stacks, images, volumes and access control without memorising the CLI, with a full install, stack deploy, backup and restore run for real in the lab. ([repo](https://github.com/paulsullivan33-dev/portainer-for-mere-mortals))
 - **[K3s for Mere Mortals](https://paulsullivan33-dev.github.io/k3s-for-mere-mortals/)** — Kubernetes in a single small binary: installing it on one ordinary machine, growing it into a small cluster of your own, running real workloads, and knowing plainly what the light weight leaves out. ([repo](https://github.com/paulsullivan33-dev/k3s-for-mere-mortals))
 - **[K9s for Mere Mortals](https://paulsullivan33-dev.github.io/k9s-for-mere-mortals/)** — a keyboard-driven window onto a Kubernetes cluster: watching pods, deployments, and services as they change, reading logs, describing resources, and acting on them from the terminal. ([repo](https://github.com/paulsullivan33-dev/k9s-for-mere-mortals))
+- **[Distrobox for Mere Mortals](https://paulsullivan33-dev.github.io/distrobox-for-mere-mortals/)** — use any Linux distribution inside your terminal: boxes that share your home folder, one distribution's software running on another, exported apps on your desktop, and an honest account of where a box's walls actually are. ([repo](https://github.com/paulsullivan33-dev/distrobox-for-mere-mortals))
 
 ## Networking
 
