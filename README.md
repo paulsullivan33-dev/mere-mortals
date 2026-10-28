@@ -117,6 +117,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Agile for Mere Mortals](https://paulsullivan33-dev.github.io/agile-for-mere-mortals/)** — the manifesto, Scrum, Kanban, user stories, estimation, how agile goes wrong, and what to keep on a tiny team. ([repo](https://github.com/paulsullivan33-dev/agile-for-mere-mortals))
 - **[lazygit for Mere Mortals](https://paulsullivan33-dev.github.io/lazygit-for-mere-mortals/)** — a terminal interface that makes git feel small: staging, committing, branching, stashing, undoing, and untangling merges one keystroke at a time, with the real git commands kept in view. ([repo](https://github.com/paulsullivan33-dev/lazygit-for-mere-mortals))
 - **[Pre-commit for Mere Mortals](https://paulsullivan33-dev.github.io/pre-commit-for-mere-mortals/)** — a gatekeeper for your git commits: checks that run before every commit, fixing the files they flag, hooks of your own, and keeping the whole set current. ([repo](https://github.com/paulsullivan33-dev/pre-commit-for-mere-mortals))
+- **[Delta for Mere Mortals](https://paulsullivan33-dev.github.io/delta-for-mere-mortals/)** — a pager that makes git diffs readable: syntax highlighting, emphasis on the words that changed inside a line, line numbers and side-by-side views for diff, log, and blame, wired into git with a few lines of configuration. ([repo](https://github.com/paulsullivan33-dev/delta-for-mere-mortals))
 
 ## Containers, cloud, and automation
 
