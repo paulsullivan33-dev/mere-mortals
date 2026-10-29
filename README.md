@@ -71,6 +71,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Clonezilla for Mere Mortals](https://paulsullivan33-dev.github.io/clonezilla-for-mere-mortals/)** — whole-disk imaging: the live system honestly labelled, and its partclone engine run end to end on real filesystems. ([repo](https://github.com/paulsullivan33-dev/clonezilla-for-mere-mortals))
 - **[ddrescue for Mere Mortals](https://paulsullivan33-dev.github.io/ddrescue-for-mere-mortals/)** — rescuing data from failing drives: the mapfile, the phases, and merging two damaged copies into a whole one, byte-accounted in the lab. ([repo](https://github.com/paulsullivan33-dev/ddrescue-for-mere-mortals))
 - **[Btrfs for Mere Mortals](https://paulsullivan33-dev.github.io/btrfs-for-mere-mortals/)** — the copy-on-write filesystem, worked on image files so no real disk is ever at risk: subvolumes and snapshots, checksums catching flipped bytes, send and receive, RAID profiles, scrub and repair, and the rule stated early — a snapshot is not a backup. ([repo](https://github.com/paulsullivan33-dev/btrfs-for-mere-mortals))
+- **[GNU Stow for Mere Mortals](https://paulsullivan33-dev.github.io/gnu-stow-for-mere-mortals/)** — GNU Stow keeps your dotfiles and hand-built software in tidy packages in one folder and links them into place with symlinks, so they can be installed, updated, and removed cleanly with a single command. ([repo](https://github.com/paulsullivan33-dev/gnu-stow-for-mere-mortals))
 
 ## Watching your systems
 
