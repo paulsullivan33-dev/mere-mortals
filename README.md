@@ -54,6 +54,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Fish for Mere Mortals](https://paulsullivan33-dev.github.io/fish-for-mere-mortals/)** — Fish is the friendly interactive shell that helps while you type, offering autosuggestions from your history, syntax highlighting that flags mistakes before you press Enter, and completions that explain themselves. ([repo](https://github.com/paulsullivan33-dev/fish-for-mere-mortals))
 - **[Helix for Mere Mortals](https://paulsullivan33-dev.github.io/helix-for-mere-mortals/)** — Helix is a modal terminal text editor that selects text before acting on it, with multiple cursors, tree-sitter structure awareness and language-server features built in. ([repo](https://github.com/paulsullivan33-dev/helix-for-mere-mortals))
 - **[WezTerm for Mere Mortals](https://paulsullivan33-dev.github.io/wezterm-for-mere-mortals/)** — A GPU-accelerated terminal emulator with tabs, panes, and a built-in multiplexer, configured in Lua. ([repo](https://github.com/paulsullivan33-dev/wezterm-for-mere-mortals))
+- **[Zellij for Mere Mortals](https://paulsullivan33-dev.github.io/zellij-for-mere-mortals/)** — Zellij is a terminal multiplexer that splits one window into panes and tabs, keeps sessions running after you detach or lose your connection, rebuilds your arrangement from plain-text layout files, and can even resurrect a session after a crash. ([repo](https://github.com/paulsullivan33-dev/zellij-for-mere-mortals))
 
 ## Files, backups, and sync
 
