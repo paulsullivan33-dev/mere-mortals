@@ -258,6 +258,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[ClamAV for Mere Mortals](https://paulsullivan33-dev.github.io/clamav-for-mere-mortals/)** — The open-source antivirus — scan files and mail on your own machine. ([repo](https://github.com/paulsullivan33-dev/clamav-for-mere-mortals))
 - **[LUKS for Mere Mortals](https://paulsullivan33-dev.github.io/luks-for-mere-mortals/)** — Encrypt a Linux disk with cryptsetup — key slots, keyfiles, and the header backup that saves you. ([repo](https://github.com/paulsullivan33-dev/luks-for-mere-mortals))
 - **[VeraCrypt for Mere Mortals](https://paulsullivan33-dev.github.io/veracrypt-for-mere-mortals/)** — Encrypted containers that travel between Windows, Mac and Linux — hidden volumes explained honestly. ([repo](https://github.com/paulsullivan33-dev/veracrypt-for-mere-mortals))
+- **[CrowdSec for Mere Mortals](https://paulsullivan33-dev.github.io/crowdsec-for-mere-mortals/)** — Intrusion prevention that learns from every server running it — detection, decisions and bouncers. ([repo](https://github.com/paulsullivan33-dev/crowdsec-for-mere-mortals))
 ## AI at home
 
 - **[AI for Mere Mortals](https://paulsullivan33-dev.github.io/AI-for-mere-mortals/)** — understand LLMs and run them on your own computers: Ollama, Open WebUI, choosing models, and RAG. No math degree required. ([repo](https://github.com/paulsullivan33-dev/AI-for-mere-mortals))
