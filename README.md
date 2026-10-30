@@ -133,6 +133,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[PhotoPrism for Mere Mortals](https://paulsullivan33-dev.github.io/photoprism-for-mere-mortals/)** — PhotoPrism is a self-hosted photo library that reads the photo folder you already have, builds a searchable index of dates, places, labels and faces on your own machine, and serves it as a web app. ([repo](https://github.com/paulsullivan33-dev/photoprism-for-mere-mortals))
 - **[Nightscout for Mere Mortals](https://paulsullivan33-dev.github.io/nightscout-for-mere-mortals/)** — Host your own glucose dashboard — live readings, history, and alerts on your own server. ([repo](https://github.com/paulsullivan33-dev/nightscout-for-mere-mortals))
 - **[PocketBase for Mere Mortals](https://paulsullivan33-dev.github.io/pocketbase-for-mere-mortals/)** — A whole backend in a single file — database, logins, file storage and a live API. ([repo](https://github.com/paulsullivan33-dev/pocketbase-for-mere-mortals))
+- **[Inkscape for Mere Mortals](https://paulsullivan33-dev.github.io/inkscape-for-mere-mortals/)** — Vector drawing — logos, diagrams and artwork that scale forever. ([repo](https://github.com/paulsullivan33-dev/inkscape-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
