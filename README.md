@@ -150,6 +150,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Typst for Mere Mortals](https://paulsullivan33-dev.github.io/typst-for-mere-mortals/)** — Documents that compile in a blink, from data to PDF. ([repo](https://github.com/paulsullivan33-dev/typst-for-mere-mortals))
 - **[AzuraCast for Mere Mortals](https://paulsullivan33-dev.github.io/azuracast-for-mere-mortals/)** — Run your own web radio station — playlists, schedules, live DJs and listeners. ([repo](https://github.com/paulsullivan33-dev/azuracast-for-mere-mortals))
 - **[VLC for Mere Mortals](https://paulsullivan33-dev.github.io/vlc-for-mere-mortals/)** — The player that plays almost anything — plus the converter and streamer hiding inside it. ([repo](https://github.com/paulsullivan33-dev/vlc-for-mere-mortals))
+- **[Kodi for Mere Mortals](https://paulsullivan33-dev.github.io/kodi-for-mere-mortals/)** — A home theatre for the media you already own — sources, naming, scrapers and the library. ([repo](https://github.com/paulsullivan33-dev/kodi-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
