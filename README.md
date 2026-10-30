@@ -211,6 +211,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Zigbee2MQTT for Mere Mortals](https://paulsullivan33-dev.github.io/zigbee2mqtt-for-mere-mortals/)** — Zigbee bulbs and sensors in MQTT and Home Assistant, no vendor hub. ([repo](https://github.com/paulsullivan33-dev/zigbee2mqtt-for-mere-mortals))
 - **[MeshCentral for Mere Mortals](https://paulsullivan33-dev.github.io/meshcentral-for-mere-mortals/)** — One web console to remote-control every machine you own. ([repo](https://github.com/paulsullivan33-dev/meshcentral-for-mere-mortals))
 - **[OpenWrt for Mere Mortals](https://paulsullivan33-dev.github.io/openwrt-for-mere-mortals/)** — Router firmware that hands you the keys, on your own hardware. ([repo](https://github.com/paulsullivan33-dev/openwrt-for-mere-mortals))
+- **[RabbitMQ for Mere Mortals](https://paulsullivan33-dev.github.io/rabbitmq-for-mere-mortals/)** — Message queues without the mystery, with honest delivery. ([repo](https://github.com/paulsullivan33-dev/rabbitmq-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
