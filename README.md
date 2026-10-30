@@ -148,6 +148,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[GnuCash for Mere Mortals](https://paulsullivan33-dev.github.io/gnucash-for-mere-mortals/)** — Double-entry bookkeeping for a household or a tiny business. ([repo](https://github.com/paulsullivan33-dev/gnucash-for-mere-mortals))
 - **[HandBrake for Mere Mortals](https://paulsullivan33-dev.github.io/handbrake-for-mere-mortals/)** — Convert video you own with presets that make sense. ([repo](https://github.com/paulsullivan33-dev/handbrake-for-mere-mortals))
 - **[Typst for Mere Mortals](https://paulsullivan33-dev.github.io/typst-for-mere-mortals/)** — Documents that compile in a blink, from data to PDF. ([repo](https://github.com/paulsullivan33-dev/typst-for-mere-mortals))
+- **[AzuraCast for Mere Mortals](https://paulsullivan33-dev.github.io/azuracast-for-mere-mortals/)** — Run your own web radio station — playlists, schedules, live DJs and listeners. ([repo](https://github.com/paulsullivan33-dev/azuracast-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
