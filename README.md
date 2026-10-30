@@ -270,6 +270,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Hamlib for Mere Mortals](https://paulsullivan33-dev.github.io/hamlib-for-mere-mortals/)** — computer control of radios without one attached: the dummy rig answers for real, two clients share one rigctld and see each other's tuning, and the raw protocol is spoken by hand, with the transmitter-safety rule stated up front. ([repo](https://github.com/paulsullivan33-dev/hamlib-for-mere-mortals))
 - **[FreeDV for Mere Mortals](https://paulsullivan33-dev.github.io/freedv-for-mere-mortals/)** — Digital voice over HF — plain speech squeezed into an SSB channel with the open Codec2 codec. ([repo](https://github.com/paulsullivan33-dev/freedv-for-mere-mortals))
 - **[Pat (Winlink) for Mere Mortals](https://paulsullivan33-dev.github.io/pat-winlink-for-mere-mortals/)** — A Winlink client — real email over ham radio when there is no internet. ([repo](https://github.com/paulsullivan33-dev/pat-winlink-for-mere-mortals))
+- **[OrcaSlicer for Mere Mortals](https://paulsullivan33-dev.github.io/orcaslicer-for-mere-mortals/)** — Slicing models into printer-ready G-code, multicolor included. ([repo](https://github.com/paulsullivan33-dev/orcaslicer-for-mere-mortals))
 ## License
 
 The guides' writing is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mere-mortals/blob/main/LICENSE). Code examples and lab scripts in each guide's repository are licensed under the MIT License.
