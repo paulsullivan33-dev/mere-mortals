@@ -266,7 +266,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[ESP32 for Mere Mortals](https://paulsullivan33-dev.github.io/esp32-for-mere-mortals/)** — the microcontroller with Wi-Fi and Bluetooth built in: the family compared honestly, pins and power budgets without folklore, and three sketches compiled for real in the lab. ([repo](https://github.com/paulsullivan33-dev/esp32-for-mere-mortals))
 - **[CHIRP for Mere Mortals](https://paulsullivan33-dev.github.io/chirp-for-mere-mortals/)** — program amateur radios from a computer instead of their front panels: download a radio's memory to a file, build a channel plan you can read and check by hand, and write it back, with the licensing rules and the limits stated plainly. ([repo](https://github.com/paulsullivan33-dev/chirp-for-mere-mortals))
 - **[Hamlib for Mere Mortals](https://paulsullivan33-dev.github.io/hamlib-for-mere-mortals/)** — computer control of radios without one attached: the dummy rig answers for real, two clients share one rigctld and see each other's tuning, and the raw protocol is spoken by hand, with the transmitter-safety rule stated up front. ([repo](https://github.com/paulsullivan33-dev/hamlib-for-mere-mortals))
-
+- **[FreeDV for Mere Mortals](https://paulsullivan33-dev.github.io/freedv-for-mere-mortals/)** — Digital voice over HF — plain speech squeezed into an SSB channel with the open Codec2 codec. ([repo](https://github.com/paulsullivan33-dev/freedv-for-mere-mortals))
 ## License
 
 The guides' writing is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mere-mortals/blob/main/LICENSE). Code examples and lab scripts in each guide's repository are licensed under the MIT License.
