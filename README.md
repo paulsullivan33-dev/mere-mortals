@@ -290,6 +290,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[FreeDV for Mere Mortals](https://paulsullivan33-dev.github.io/freedv-for-mere-mortals/)** — Digital voice over HF — plain speech squeezed into an SSB channel with the open Codec2 codec. ([repo](https://github.com/paulsullivan33-dev/freedv-for-mere-mortals))
 - **[Pat (Winlink) for Mere Mortals](https://paulsullivan33-dev.github.io/pat-winlink-for-mere-mortals/)** — A Winlink client — real email over ham radio when there is no internet. ([repo](https://github.com/paulsullivan33-dev/pat-winlink-for-mere-mortals))
 - **[OrcaSlicer for Mere Mortals](https://paulsullivan33-dev.github.io/orcaslicer-for-mere-mortals/)** — Slicing models into printer-ready G-code, multicolor included. ([repo](https://github.com/paulsullivan33-dev/orcaslicer-for-mere-mortals))
+- **[JS8Call for Mere Mortals](https://paulsullivan33-dev.github.io/js8call-for-mere-mortals/)** — Weak-signal keyboard chat for licensed amateurs, set up honestly. ([repo](https://github.com/paulsullivan33-dev/js8call-for-mere-mortals))
 ## License
 
 The guides' writing is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mere-mortals/blob/main/LICENSE). Code examples and lab scripts in each guide's repository are licensed under the MIT License.
