@@ -197,6 +197,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Postfix & Dovecot for Mere Mortals](https://paulsullivan33-dev.github.io/postfix-and-dovecot-for-mere-mortals/)** — Run your own mail server — sending, receiving, and IMAP mailboxes on your own machine. ([repo](https://github.com/paulsullivan33-dev/postfix-and-dovecot-for-mere-mortals))
 - **[Kismet for Mere Mortals](https://paulsullivan33-dev.github.io/kismet-for-mere-mortals/)** — Wireless monitoring — a passive census of the Wi-Fi and Bluetooth around you. ([repo](https://github.com/paulsullivan33-dev/kismet-for-mere-mortals))
 - **[Zigbee2MQTT for Mere Mortals](https://paulsullivan33-dev.github.io/zigbee2mqtt-for-mere-mortals/)** — Zigbee bulbs and sensors in MQTT and Home Assistant, no vendor hub. ([repo](https://github.com/paulsullivan33-dev/zigbee2mqtt-for-mere-mortals))
+- **[MeshCentral for Mere Mortals](https://paulsullivan33-dev.github.io/meshcentral-for-mere-mortals/)** — One web console to remote-control every machine you own. ([repo](https://github.com/paulsullivan33-dev/meshcentral-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
