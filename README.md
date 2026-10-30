@@ -25,6 +25,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[pipx for Mere Mortals](https://paulsullivan33-dev.github.io/pipx-for-mere-mortals/)** — Python command-line tools, each in its own little world. ([repo](https://github.com/paulsullivan33-dev/pipx-for-mere-mortals))
 - **[Perl for Mere Mortals](https://paulsullivan33-dev.github.io/perl-for-mere-mortals/)** — The classic glue language — text, files and quick scripts. ([repo](https://github.com/paulsullivan33-dev/perl-for-mere-mortals))
 - **[Ruby for Mere Mortals](https://paulsullivan33-dev.github.io/ruby-for-mere-mortals/)** — The friendly, readable language — programs that read almost like English. ([repo](https://github.com/paulsullivan33-dev/ruby-for-mere-mortals))
+- **[PHP for Mere Mortals](https://paulsullivan33-dev.github.io/php-for-mere-mortals/)** — The language of the server-side web — pages, forms and databases. ([repo](https://github.com/paulsullivan33-dev/php-for-mere-mortals))
 ## The command line and the system
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
