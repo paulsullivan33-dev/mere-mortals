@@ -193,6 +193,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[n8n for Mere Mortals](https://paulsullivan33-dev.github.io/n8n-for-mere-mortals/)** — Visual workflow automation — connect services, webhooks, and schedules without glue code. ([repo](https://github.com/paulsullivan33-dev/n8n-for-mere-mortals))
 - **[Packer for Mere Mortals](https://paulsullivan33-dev.github.io/packer-for-mere-mortals/)** — Build identical machine images from one template, for cloud, VM or disk. ([repo](https://github.com/paulsullivan33-dev/packer-for-mere-mortals))
 - **[Watchtower for Mere Mortals](https://paulsullivan33-dev.github.io/watchtower-for-mere-mortals/)** — Keep Docker containers updated automatically — and know what not to hand it. ([repo](https://github.com/paulsullivan33-dev/watchtower-for-mere-mortals))
+- **[Coolify for Mere Mortals](https://paulsullivan33-dev.github.io/coolify-for-mere-mortals/)** — Your own Heroku on a server you control — deploy apps from Git without administering each one by hand. ([repo](https://github.com/paulsullivan33-dev/coolify-for-mere-mortals))
 ## Networking
 
 - **[Networking for Mere Mortals](https://paulsullivan33-dev.github.io/networking-for-mere-mortals/)** — IP addresses, DNS, ports, WiFi, and home networks explained plainly. ([repo](https://github.com/paulsullivan33-dev/networking-for-mere-mortals))
