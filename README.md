@@ -26,6 +26,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Perl for Mere Mortals](https://paulsullivan33-dev.github.io/perl-for-mere-mortals/)** — The classic glue language — text, files and quick scripts. ([repo](https://github.com/paulsullivan33-dev/perl-for-mere-mortals))
 - **[Ruby for Mere Mortals](https://paulsullivan33-dev.github.io/ruby-for-mere-mortals/)** — The friendly, readable language — programs that read almost like English. ([repo](https://github.com/paulsullivan33-dev/ruby-for-mere-mortals))
 - **[PHP for Mere Mortals](https://paulsullivan33-dev.github.io/php-for-mere-mortals/)** — The language of the server-side web — pages, forms and databases. ([repo](https://github.com/paulsullivan33-dev/php-for-mere-mortals))
+- **[C# & .NET for Mere Mortals](https://paulsullivan33-dev.github.io/csharp-and-dotnet-for-mere-mortals/)** — Microsoft's language and platform — programs, data and tests. ([repo](https://github.com/paulsullivan33-dev/csharp-and-dotnet-for-mere-mortals))
 ## The command line and the system
 
 - **[Linux for Mere Mortals](https://paulsullivan33-dev.github.io/linux-for-mere-mortals/)** — the operating system running most of the world's servers: the terminal, files, permissions, processes, and troubleshooting. ([repo](https://github.com/paulsullivan33-dev/linux-for-mere-mortals))
