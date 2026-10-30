@@ -152,6 +152,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[VLC for Mere Mortals](https://paulsullivan33-dev.github.io/vlc-for-mere-mortals/)** — The player that plays almost anything — plus the converter and streamer hiding inside it. ([repo](https://github.com/paulsullivan33-dev/vlc-for-mere-mortals))
 - **[Kodi for Mere Mortals](https://paulsullivan33-dev.github.io/kodi-for-mere-mortals/)** — A home theatre for the media you already own — sources, naming, scrapers and the library. ([repo](https://github.com/paulsullivan33-dev/kodi-for-mere-mortals))
 - **[Mixxx for Mere Mortals](https://paulsullivan33-dev.github.io/mixxx-for-mere-mortals/)** — Free DJ software — decks, a mixer, beat analysis and Auto DJ, measured honestly. ([repo](https://github.com/paulsullivan33-dev/mixxx-for-mere-mortals))
+- **[Ardour for Mere Mortals](https://paulsullivan33-dev.github.io/ardour-for-mere-mortals/)** — A full digital audio workstation — sessions, editing, mixing and exports you can measure. ([repo](https://github.com/paulsullivan33-dev/ardour-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
