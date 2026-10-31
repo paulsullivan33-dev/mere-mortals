@@ -233,6 +233,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Unbound for Mere Mortals](https://paulsullivan33-dev.github.io/unbound-for-mere-mortals/)** — Run your own recursive DNS resolver — caching, local names and DNSSEC, without forwarding everything to Google. ([repo](https://github.com/paulsullivan33-dev/unbound-for-mere-mortals))
 - **[ZeroTier for Mere Mortals](https://paulsullivan33-dev.github.io/zerotier-for-mere-mortals/)** — A network made of software — distant machines plugged into one virtual switch. ([repo](https://github.com/paulsullivan33-dev/zerotier-for-mere-mortals))
 - **[OPNsense for Mere Mortals](https://paulsullivan33-dev.github.io/opnsense-for-mere-mortals/)** — A FreeBSD firewall and router on your own hardware — rules, NAT, VPNs and the one config file that holds it all. ([repo](https://github.com/paulsullivan33-dev/opnsense-for-mere-mortals))
+- **[Guacamole for Mere Mortals](https://paulsullivan33-dev.github.io/guacamole-for-mere-mortals/)** — A remote desktop gateway that puts other computers in your browser tab — RDP, VNC and SSH behind one login. ([repo](https://github.com/paulsullivan33-dev/guacamole-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
