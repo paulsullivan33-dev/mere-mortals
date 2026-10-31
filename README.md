@@ -238,6 +238,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[OPNsense for Mere Mortals](https://paulsullivan33-dev.github.io/opnsense-for-mere-mortals/)** — A FreeBSD firewall and router on your own hardware — rules, NAT, VPNs and the one config file that holds it all. ([repo](https://github.com/paulsullivan33-dev/opnsense-for-mere-mortals))
 - **[Guacamole for Mere Mortals](https://paulsullivan33-dev.github.io/guacamole-for-mere-mortals/)** — A remote desktop gateway that puts other computers in your browser tab — RDP, VNC and SSH behind one login. ([repo](https://github.com/paulsullivan33-dev/guacamole-for-mere-mortals))
 - **[SatDump for Mere Mortals](https://paulsullivan33-dev.github.io/satdump-for-mere-mortals/)** — A satellite data processor that turns radio recordings into weather images — a real NOAA pass decoded and measured here. ([repo](https://github.com/paulsullivan33-dev/satdump-for-mere-mortals))
+- **[ADS-B and readsb for Mere Mortals](https://paulsullivan33-dev.github.io/adsb-readsb-for-mere-mortals/)** — An aircraft tracking receiver you build yourself — how airliners broadcast their own position, decoded live here from a fixture flight. ([repo](https://github.com/paulsullivan33-dev/adsb-readsb-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
