@@ -320,6 +320,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[OrcaSlicer for Mere Mortals](https://paulsullivan33-dev.github.io/orcaslicer-for-mere-mortals/)** — Slicing models into printer-ready G-code, multicolor included. ([repo](https://github.com/paulsullivan33-dev/orcaslicer-for-mere-mortals))
 - **[JS8Call for Mere Mortals](https://paulsullivan33-dev.github.io/js8call-for-mere-mortals/)** — Weak-signal keyboard chat for licensed amateurs, set up honestly. ([repo](https://github.com/paulsullivan33-dev/js8call-for-mere-mortals))
 - **[DOSBox for Mere Mortals](https://paulsullivan33-dev.github.io/dosbox-for-mere-mortals/)** — A complete 1980s PC inside your modern one, for programs you own. ([repo](https://github.com/paulsullivan33-dev/dosbox-for-mere-mortals))
+- **[FreeCAD for Mere Mortals](https://paulsullivan33-dev.github.io/freecad-for-mere-mortals/)** — Parametric 3D CAD on your own machine — designing real parts from sketches and numbers, proven by measurement. ([repo](https://github.com/paulsullivan33-dev/freecad-for-mere-mortals))
 ## License
 
 The guides' writing is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mere-mortals/blob/main/LICENSE). Code examples and lab scripts in each guide's repository are licensed under the MIT License.
