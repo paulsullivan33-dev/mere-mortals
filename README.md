@@ -229,6 +229,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[OpenWrt for Mere Mortals](https://paulsullivan33-dev.github.io/openwrt-for-mere-mortals/)** — Router firmware that hands you the keys, on your own hardware. ([repo](https://github.com/paulsullivan33-dev/openwrt-for-mere-mortals))
 - **[RabbitMQ for Mere Mortals](https://paulsullivan33-dev.github.io/rabbitmq-for-mere-mortals/)** — Message queues without the mystery, with honest delivery. ([repo](https://github.com/paulsullivan33-dev/rabbitmq-for-mere-mortals))
 - **[Unbound for Mere Mortals](https://paulsullivan33-dev.github.io/unbound-for-mere-mortals/)** — Run your own recursive DNS resolver — caching, local names and DNSSEC, without forwarding everything to Google. ([repo](https://github.com/paulsullivan33-dev/unbound-for-mere-mortals))
+- **[ZeroTier for Mere Mortals](https://paulsullivan33-dev.github.io/zerotier-for-mere-mortals/)** — A network made of software — distant machines plugged into one virtual switch. ([repo](https://github.com/paulsullivan33-dev/zerotier-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
