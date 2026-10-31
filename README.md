@@ -154,6 +154,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Mixxx for Mere Mortals](https://paulsullivan33-dev.github.io/mixxx-for-mere-mortals/)** — Free DJ software — decks, a mixer, beat analysis and Auto DJ, measured honestly. ([repo](https://github.com/paulsullivan33-dev/mixxx-for-mere-mortals))
 - **[Ardour for Mere Mortals](https://paulsullivan33-dev.github.io/ardour-for-mere-mortals/)** — A full digital audio workstation — sessions, editing, mixing and exports you can measure. ([repo](https://github.com/paulsullivan33-dev/ardour-for-mere-mortals))
 - **[MuseScore for Mere Mortals](https://paulsullivan33-dev.github.io/musescore-for-mere-mortals/)** — Music notation that prints, plays and travels — scores, parts, exports and the command line. ([repo](https://github.com/paulsullivan33-dev/musescore-for-mere-mortals))
+- **[TuxGuitar for Mere Mortals](https://paulsullivan33-dev.github.io/tuxguitar-for-mere-mortals/)** — Read, write and practise guitar tablature — tabs, playback training and exports that check out. ([repo](https://github.com/paulsullivan33-dev/tuxguitar-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
