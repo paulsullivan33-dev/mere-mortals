@@ -324,6 +324,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[DOSBox for Mere Mortals](https://paulsullivan33-dev.github.io/dosbox-for-mere-mortals/)** — A complete 1980s PC inside your modern one, for programs you own. ([repo](https://github.com/paulsullivan33-dev/dosbox-for-mere-mortals))
 - **[FreeCAD for Mere Mortals](https://paulsullivan33-dev.github.io/freecad-for-mere-mortals/)** — Parametric 3D CAD on your own machine — designing real parts from sketches and numbers, proven by measurement. ([repo](https://github.com/paulsullivan33-dev/freecad-for-mere-mortals))
 - **[WLED for Mere Mortals](https://paulsullivan33-dev.github.io/wled-for-mere-mortals/)** — Firmware that turns a five-dollar microcontroller into a complete networked light controller, built and measured here. ([repo](https://github.com/paulsullivan33-dev/wled-for-mere-mortals))
+- **[Pi-Star for Mere Mortals](https://paulsullivan33-dev.github.io/pi-star-for-mere-mortals/)** — The digital voice hotspot system in plain language — what a hotspot is, the modes it speaks, and the image read file by file. ([repo](https://github.com/paulsullivan33-dev/pi-star-for-mere-mortals))
 ## License
 
 The guides' writing is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mere-mortals/blob/main/LICENSE). Code examples and lab scripts in each guide's repository are licensed under the MIT License.
