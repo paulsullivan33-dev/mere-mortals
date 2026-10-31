@@ -198,6 +198,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Watchtower for Mere Mortals](https://paulsullivan33-dev.github.io/watchtower-for-mere-mortals/)** — Keep Docker containers updated automatically — and know what not to hand it. ([repo](https://github.com/paulsullivan33-dev/watchtower-for-mere-mortals))
 - **[Coolify for Mere Mortals](https://paulsullivan33-dev.github.io/coolify-for-mere-mortals/)** — Your own Heroku on a server you control — deploy apps from Git without administering each one by hand. ([repo](https://github.com/paulsullivan33-dev/coolify-for-mere-mortals))
 - **[Minikube for Mere Mortals](https://paulsullivan33-dev.github.io/minikube-for-mere-mortals/)** — A real Kubernetes cluster on your own machine for learning and testing, drivers and limits included. ([repo](https://github.com/paulsullivan33-dev/minikube-for-mere-mortals))
+- **[YunoHost for Mere Mortals](https://paulsullivan33-dev.github.io/yunohost-for-mere-mortals/)** — A self-hosting system that turns a spare server into a box of apps with users and mail wired in. ([repo](https://github.com/paulsullivan33-dev/yunohost-for-mere-mortals))
 ## Networking
 
 - **[Networking for Mere Mortals](https://paulsullivan33-dev.github.io/networking-for-mere-mortals/)** — IP addresses, DNS, ports, WiFi, and home networks explained plainly. ([repo](https://github.com/paulsullivan33-dev/networking-for-mere-mortals))
