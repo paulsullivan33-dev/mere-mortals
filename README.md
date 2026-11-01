@@ -163,6 +163,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Vikunja for Mere Mortals](https://paulsullivan33-dev.github.io/vikunja-for-mere-mortals/)** — A self-hosted to-do and project manager — tasks, boards, calendars and an API, run live. ([repo](https://github.com/paulsullivan33-dev/vikunja-for-mere-mortals))
 - **[Grocy for Mere Mortals](https://paulsullivan33-dev.github.io/grocy-for-mere-mortals/)** — A household stock and chores manager — pantry, expiry dates, shopping lists and recipes on your own server. ([repo](https://github.com/paulsullivan33-dev/grocy-for-mere-mortals))
 - **[HomeBox for Mere Mortals](https://paulsullivan33-dev.github.io/homebox-for-mere-mortals/)** — A home inventory system — what you own, where it lives and what it is worth, on your own machine. ([repo](https://github.com/paulsullivan33-dev/homebox-for-mere-mortals))
+- **[InfluxDB for Mere Mortals](https://paulsullivan33-dev.github.io/influxdb-for-mere-mortals/)** — a database built for measurements over time — sensor readings, temperatures, anything with a timestamp — written in line protocol and read back with Flux. ([repo](https://github.com/paulsullivan33-dev/influxdb-for-mere-mortals))
 ## Version control, delivery, and teamwork
 
 - **[Git for Mere Mortals](https://paulsullivan33-dev.github.io/git-for-mere-mortals/)** — the daily git reference: the save-point mental model, the commands you'll actually use, branches, and a cookbook for undoing mistakes. ([repo](https://github.com/paulsullivan33-dev/git-for-mere-mortals))
