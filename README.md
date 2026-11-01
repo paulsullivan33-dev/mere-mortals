@@ -249,6 +249,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[ADS-B and readsb for Mere Mortals](https://paulsullivan33-dev.github.io/adsb-readsb-for-mere-mortals/)** — An aircraft tracking receiver you build yourself — how airliners broadcast their own position, decoded live here from a fixture flight. ([repo](https://github.com/paulsullivan33-dev/adsb-readsb-for-mere-mortals))
 - **[TinyGS for Mere Mortals](https://paulsullivan33-dev.github.io/tinygs-for-mere-mortals/)** — A tiny ground station for LoRa satellites — an ESP32 listener for the TinyGS network, firmware built and read here. ([repo](https://github.com/paulsullivan33-dev/tinygs-for-mere-mortals))
 - **[RustScan for Mere Mortals](https://paulsullivan33-dev.github.io/rustscan-for-mere-mortals/)** — the fast port scanner that finds open ports in seconds and hands them to nmap for the detailed look, with the ethics of scanning stated plainly. ([repo](https://github.com/paulsullivan33-dev/rustscan-for-mere-mortals))
+- **[NetBox for Mere Mortals](https://paulsullivan33-dev.github.io/netbox-for-mere-mortals/)** — a source of truth for your network: IP addresses, devices, racks and cables, documented in one place instead of scattered notes. ([repo](https://github.com/paulsullivan33-dev/netbox-for-mere-mortals))
 ## The web
 
 - **[APIs for Mere Mortals](https://paulsullivan33-dev.github.io/api-for-mere-mortals/)** — how programs talk to each other: HTTP, REST, JSON, authentication, and building your own. ([repo](https://github.com/paulsullivan33-dev/api-for-mere-mortals))
