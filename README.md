@@ -181,6 +181,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[GitLab for Mere Mortals](https://paulsullivan33-dev.github.io/gitlab-for-mere-mortals/)** — Your own Git hosting — repositories, issues, merge requests and CI in one place. ([repo](https://github.com/paulsullivan33-dev/gitlab-for-mere-mortals))
 - **[Renovate for Mere Mortals](https://paulsullivan33-dev.github.io/renovate-for-mere-mortals/)** — A robot that keeps your project’s dependencies up to date — dry runs first, automerge only when earned. ([repo](https://github.com/paulsullivan33-dev/renovate-for-mere-mortals))
 - **[Jenkins for Mere Mortals](https://paulsullivan33-dev.github.io/jenkins-for-mere-mortals/)** — The automation server in plain terms — jobs, pipelines, triggers and build results you can read. ([repo](https://github.com/paulsullivan33-dev/jenkins-for-mere-mortals))
+- **[Woodpecker for Mere Mortals](https://paulsullivan33-dev.github.io/woodpecker-for-mere-mortals/)** — a lightweight CI server you host yourself: pipelines that run on every push, defined in one small YAML file. ([repo](https://github.com/paulsullivan33-dev/woodpecker-for-mere-mortals))
 ## Containers, cloud, and automation
 
 - **[Docker for Mere Mortals](https://paulsullivan33-dev.github.io/docker-for-mere-mortals/)** — containers explained plainly: images, Dockerfiles, volumes, networking, and Compose. ([repo](https://github.com/paulsullivan33-dev/docker-for-mere-mortals))
