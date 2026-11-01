@@ -264,6 +264,7 @@ Every guide in this series is held to the same nine-point writing standard, and 
 - **[Miniflux for Mere Mortals](https://paulsullivan33-dev.github.io/miniflux-for-mere-mortals/)** — A small, serious RSS reader you host yourself. ([repo](https://github.com/paulsullivan33-dev/miniflux-for-mere-mortals))
 - **[Ghost for Mere Mortals](https://paulsullivan33-dev.github.io/ghost-for-mere-mortals/)** — A clean, modern publishing platform for a blog or newsletter of your own. ([repo](https://github.com/paulsullivan33-dev/ghost-for-mere-mortals))
 - **[WordPress for Mere Mortals](https://paulsullivan33-dev.github.io/wordpress-for-mere-mortals/)** — The world's most-used way to publish a website, run your own way. ([repo](https://github.com/paulsullivan33-dev/wordpress-for-mere-mortals))
+- **[Umami for Mere Mortals](https://paulsullivan33-dev.github.io/umami-for-mere-mortals/)** — self-hosted website analytics that respects your visitors: page views, referrers and countries, with no cookies and no personal data. ([repo](https://github.com/paulsullivan33-dev/umami-for-mere-mortals))
 ## Security
 
 - **[Cybersecurity for Mere Mortals](https://paulsullivan33-dev.github.io/cybersecurity-for-mere-mortals/)** — practical security for a home operator: threat models, passwords, 2FA, phishing, backups, SSH hardening, and what to do if you've been hacked. No fear-mongering. ([repo](https://github.com/paulsullivan33-dev/cybersecurity-for-mere-mortals))
