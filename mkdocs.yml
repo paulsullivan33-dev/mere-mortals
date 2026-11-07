@@ -8,6 +8,9 @@ copyright: 'Part of <a href="https://paulsullivan33-dev.github.io/mere-mortals/"
 theme:
   name: material
 
+extra_javascript:
+  - assets/goatcounter.js
+
 nav:
   - Home: index.md
   - Privacy: privacy.md

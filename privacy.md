@@ -1,10 +1,14 @@
 # Privacy
 
-This site is a static collection of guides. It has no accounts, no
-comments, and no analytics of my own; I do not collect, receive, or
-store any personal data from visitors. (The site is hosted on GitHub
-Pages, and GitHub's own policies cover anything their infrastructure
-does on its own.)
+This site is a static collection of guides. It has no accounts and
+no comments. It does count visits, using GoatCounter, a
+privacy-friendly counter: it sets no cookies and does not track
+visitors across sites. What I see is aggregate numbers only — how
+many times a page was read, which sites sent readers here, and
+rough browser and country tallies. I do not collect, receive, or
+store any personal data from visitors. (The site is hosted on
+GitHub Pages, and GitHub's own policies cover anything their
+infrastructure does on its own.)
 
 ## The "rclone" application
 
